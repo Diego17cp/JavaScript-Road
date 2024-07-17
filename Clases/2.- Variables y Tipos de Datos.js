@@ -9,14 +9,14 @@
 ------------------------------------------------------------------------------------
 // Formas incorrectas y correctas de defninir variables:
   // Incorrecto:
-    let Hola mundo; <-- No puedes poner espacios en el nombre de la variable
-    let hola-mundo; <-- No puedes poner un guion para espaciar el nombre de la variable
-    let hola@mundo; <-- No puedes poner arrobas en el nombre de la variable
-    let 1hola; <-- No puedes empezar el nombre de la variable con un número
+    let Hola mundo; <-- // No puedes poner espacios en el nombre de la variable
+    let hola-mundo; <-- // No puedes poner un guion para espaciar el nombre de la variable
+    let hola@mundo; <-- // No puedes poner arrobas en el nombre de la variable
+    let 1hola; <-- //No puedes empezar el nombre de la variable con un número
   // Correcto:
     let holamundo;
-    let hola_mundo; <-- Puedes espaciar el nombre de tu variable con guiones bajos 
-    let holamundo1; <-- Puedes poner números en los nombres de tus variables siempre y cuando empiecen por una letra
+    let hola_mundo; <-- // Puedes espaciar el nombre de tu variable con guiones bajos 
+    let holamundo1; <-- // Puedes poner números en los nombres de tus variables siempre y cuando empiecen por una letra
     let HolaMundo;
 ------------------------------------------------------------------------------------  
 // Tipos de Datos:
