@@ -1,0 +1,3 @@
+## Inicio del Curso 🧑‍💻
+**El curso irá por [Clases](https://github.com/Diego17cp/JavaScript-Road/tree/main/Clases), empezando desde lo más básico y se irá avanzando progresivamente. Recuerda que siempre debes aprender más por tu cuenta y seguir. Un programador nunca tiene límites!** 💎<br>
+**Luego de cada clase, se subirá un archivo con ejercicios los cual debes hacer en base a lo visto en la clase. Participa mandando Pull Requests y añade un archivo con el ejercicio resuelto. EL título de tu archivo debe seguir el siguiente formato: *[Nombre de la clase]-[Tu nombre de usuario].md*, para mantener un orden adecuado.** ⚠️
