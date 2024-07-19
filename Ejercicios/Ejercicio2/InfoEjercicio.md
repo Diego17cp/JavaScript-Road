@@ -1,5 +1,5 @@
 ## Ejercicio 2 - Variables y Datos 👾
-**Para este segundo capítulo tendremos 4 ejercicios**
+**Para este segundo capítulo tendremos 3 ejercicios**
 - 1.- Define 3 variables e imprímelas en la consola una por una o concatenalas.
 - 2.- Define 5 variables y concatenalas para mostrar una frase con sentido.
 - 3.- Define 3 variables de un tipo y posteriormente cambialas a otro tipo de dato y muéstralas formando una oración o mensaje.
