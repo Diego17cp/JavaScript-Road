@@ -1,6 +1,6 @@
 // Operadores 
 // Los operadores en JS asignan un valor a alguna variabe o hacer operaciones entre dos o más variables.
-// aqui ira una separacion
+------------------------------------------------------------------------------------
 // Los Operadores Aritméticos:
     // (+) Suma: Suma dos o más valores numéricos o concatena strings
         let suma=5+3;
@@ -23,7 +23,7 @@
     // (--) Decremento: Resta un valor en uno
         let decr=5;
         decr--; // Devolverá 4
-// aqui ira una separacion
+------------------------------------------------------------------------------------
 // Los Operadores de Asignación:
     // (=) Asignación simple: Le asignas un valor a la variable
         let saludo="Hola";
@@ -42,7 +42,7 @@
     // (**=) Asignación de potencia: Potencia el valor de la variable y la asigna, igual que el ejemplo anterior pero a la inversa.
         let b=10;
         b**=5; /* Esto es igual a decir: */ b=b**5
-// aqui ira una separacion
+------------------------------------------------------------------------------------
 // Los Operadores de Comparación: Comparan dos valores y devuelven un valor booleano.
     // (==) Igualdad: Compara dos valores para ver si son iguales, no importa el tipo de dato
         let esIgual = (5 == "5"); // Devolverá True
@@ -61,7 +61,7 @@
         let mayorigu = (5>=5); // Devolverá True
     // (<=) Menor igual que: Compara dos valores para ver si el primero es menor o igual que el segundo
         let menorigu = (10<=5); // Devolverá False
-// aqui ira una separacion
+------------------------------------------------------------------------------------
 // Los Operadores de Lógicos: Comparan valores booleanos y devuelve otro booleano
     // (&&) AND o Y: Devuelve True si ambos valores son True 
         let and=true && false; // Devolverá False
@@ -69,3 +69,5 @@
         let or=true || false; // Devolverá True
     // (!) NOT o NO: Invierte el booleano para dar lo contrario
         let not=!true; // Devolverá False
+------------------------------------------------------------------------------------
+// Hasta aquí llega la Clase 3
