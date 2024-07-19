@@ -63,4 +63,13 @@ console.log("Soy "+nombre+" y tengo "+edad+" años."); <-- // Imprimirá 'Soy Di
 // Si ya tienes dos o más variables con valores más específicos los puedes concatenar de la siguiente manera:
   console.log(nombre+" "+edad); <-- // Imprimirá 'Diego 18'
 ------------------------------------------------------------------------------------
+// Por último veremos como cambiar el tipo de dato de una variable. Como dije con anterioridad, JavaScript es un lenguaje dinámico, eso significa que el cambio de valor o tipo de dato de una variable es sumamente sencillo de realizar.
+  // Para cambiar el valor de una variable es tan fácil como actualizarla de la siguiente forma:
+    let edad=18;
+    // Ahora actualizaremos la edad:
+    edad=19;
+  // Finalmente, para cambiar el tipo de dato de una variable es tan sencillo como hacer lo mismo:
+    let variable=2024;
+    variable="2024" // Ahora Variable pasó de ser un number a una string de una forma tan sencilla.
+------------------------------------------------------------------------------------
 // Con esto culmina la Clase 2. Gracias por leer.
