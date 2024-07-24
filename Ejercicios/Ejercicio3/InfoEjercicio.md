@@ -4,7 +4,7 @@
 - 2.- Define 2 variables y haz una operación a tu elección con ellas, luego concatena la oración con el valor de esa variable.
 - 3.- Define 1 variable y luego asígnale nuevos valores usando los operadores necesarios.
 - 4.- Define una variable contador y haz que aumente o decremente las veces que tú desees.
-- Procura siempre concatenar lo que imprimirás en consola.
+- Procura siempre concatenar lo que imprimirás en consola y hacer uso del CamelCase en tus variables.
 > [!IMPORTANT]
 > ## Importante ⚠️: 
 > - **Deberás mandar un Pull Request desde Git o GitHub con tu archivo de ejercicio, el título debe ser el sgte: *Combinadas-[Tu Usuario].js*, esto es para mantener un orden. ❗**
