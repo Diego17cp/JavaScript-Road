@@ -2,9 +2,7 @@
 **Para esta cuarta sesión de ejercicios abarcaremos todo lo anteriormente visto. Así será durante las próximas sesiones, serán menos sesiones de ejercicios pero con un nivel más completo. Vamos a ello!**
 - 1.- Clasificación de estudiantes: Saca el promedio de un curso en base a 5 notas, si el promedio es menor a 11 el alumno está desaprobado, si es menor a 15 el alumno está regular, si es menor que 18 y mayor a 15 el estudiante está e grado satisfactorio y si el promedio es igual a 20 el alumno está excelente.
 - 2.- Edades: En este caso, en el Documento de Identidad propio cambia si el ciudadano es mayor o menor de edad, entonces, si el usuario es menor de edad deberá ser negado el cambio de Documento, pero si el usuario es mayor a 17 años, sí es apto.
-- 3.- Calculadora: En este ejercicio que ya hemos visto antes deberás hacer que el usuario elija la operación que desee, dependiendo de lo que elija los números ejecutarán la operación elegida, pero recuerda que no se puede dividir entre 0 y que se debe tener una opción para salir.
-- 4.- Tienda: Imagina que tienes una cantidad de dinero específica, quieres gastarlo en algunas cosas, así que compra algo, recuerda que también puedes recibir cambio y que el producto debe incluir el inmpuesto generado por ventas respectivo de tu país, también tienes la opción de que no te alcance y debas irte de la tienda.
-- 5.- Conversor: Define una cantidad X de metros, pero también quieres convertirlo a unidades menores y mayores, por lo tanto, si elijes un tipo específico de conversión debe mostrar un mensaje diferente.
+- 3.- Tienda: Imagina que tienes una cantidad de dinero específica, quieres gastarlo en algunas cosas, así que compra algo, recuerda que también puedes recibir cambio y que el producto debe incluir el inmpuesto generado por ventas respectivo de tu país, también tienes la opción de que no te alcance y debas irte de la tienda.
 - Procura siempre concatenar lo que imprimirás en consola y hacer uso del CamelCase en tus variables.
 > [!IMPORTANT]
 > ## Importante ⚠️: 
